@@ -16,7 +16,6 @@ Dentre os 500 indivíduos, 34,6% são de casos graves.
 Comparando as estatísticas de cada grupo, nos casos graves, a idade média é de 57,4 anos; a proporção masculina é de 53,8; e das características dos pacientes, 
 aqueles com diabetes, hipertensão e obesidade são 23,1, 37,6 e 31,2, respectivamente.
 Após a aplicação do modelo de regressão logística, o resultado é melhor observado em um gráfico representado pelo Forest Plot.
-<img src="C:\Users\crist\Desktop\r_dados\curso-analise-de-dados-main\casos">
 
 4. Discussão e Conclusão
 A análise de dados e do gráfico Forest Plot mostra que, dos indivíduos com casos graves de covid-19, os do sexo masculino e diabéticos, são as 
